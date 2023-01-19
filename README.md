@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ZSYcho
-- 👀 I’m interested in movies,music and ficition.
-- 🌱 I’m currently learning OS,computer network and computer vision.
 - 💞️ I’m looking to collaborate on any Computer Science project.
 - 📫 How to reach me 
   -  CSDN:https://blog.csdn.net/qq_45809066?spm=1010.2135.3001.5421
